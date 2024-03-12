@@ -3,6 +3,7 @@ package br.com.application.carbill;
 public class Classe_tb_tipo {
 
     int id_tipo;
+    
     String tipo;
 
     public Classe_tb_tipo(int id_tipo, String tipo) {
